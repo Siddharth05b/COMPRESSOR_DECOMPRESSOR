@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mycompany.compressor_decompressor"},{"l":"comp_decomp"},{"l":"GUI"}];updateSearchResults();

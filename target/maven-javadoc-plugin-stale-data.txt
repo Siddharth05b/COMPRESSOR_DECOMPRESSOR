@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'16'
+-sourcepath
+'C:/Users/91748/Documents/NetBeansProjects/COMPRESSOR_DECOMPRESSOR/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/91748/Documents/NetBeansProjects/COMPRESSOR_DECOMPRESSOR/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'COMPRESSOR_DECOMPRESSOR 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'COMPRESSOR_DECOMPRESSOR 1.0-SNAPSHOT API'
+com.mycompany.compressor_decompressor
+comp_decomp
+GUI
+C:\Users\91748\Documents\NetBeansProjects\COMPRESSOR_DECOMPRESSOR\src\main\java = 1679993085888
+C:\Users\91748\Documents\NetBeansProjects\COMPRESSOR_DECOMPRESSOR\target\site\apidocs\allclasses-index.html = 1680077642128
+C:\Users\91748\Documents\NetBeansProjects\COMPRESSOR_DECOMPRESSOR\target\site\apidocs\allpackages-index.html = 1680077642136
+C:\Users\91748\Documents\NetBeansProjects\COMPRESSOR_DECOMPRESSOR\target\site\apidocs\element-list = 1680077641864
+C:\Users\91748\Documents\NetBeansProjects\COMPRESSOR_DECOMPRESSOR\target\site\apidocs\help-doc.html = 1680077642232
+C:\Users\91748\Documents\NetBeansProjects\COMPRESSOR_DECOMPRESSOR\target\site\apidocs\index-all.html = 1680077642208
+C:\Users\91748\Documents\NetBeansProjects\COMPRESSOR_DECOMPRESSOR\target\site\apidocs\index.html = 1680077642080
+C:\Users\91748\Documents\NetBeansProjects\COMPRESSOR_DECOMPRESSOR\target\site\apidocs\jquery-ui.overrides.css = 1680077642352
+C:\Users\91748\Documents\NetBeansProjects\COMPRESSOR_DECOMPRESSOR\target\site\apidocs\member-search-index.js = 1680077642160
+C:\Users\91748\Documents\NetBeansProjects\COMPRESSOR_DECOMPRESSOR\target\site\apidocs\module-search-index.js = 1680077642144
+C:\Users\91748\Documents\NetBeansProjects\COMPRESSOR_DECOMPRESSOR\target\site\apidocs\overview-summary.html = 1680077642216
+C:\Users\91748\Documents\NetBeansProjects\COMPRESSOR_DECOMPRESSOR\target\site\apidocs\overview-tree.html = 1680077642072
+C:\Users\91748\Documents\NetBeansProjects\COMPRESSOR_DECOMPRESSOR\target\site\apidocs\package-search-index.js = 1680077642144
+C:\Users\91748\Documents\NetBeansProjects\COMPRESSOR_DECOMPRESSOR\target\site\apidocs\script.js = 1680077642248
+C:\Users\91748\Documents\NetBeansProjects\COMPRESSOR_DECOMPRESSOR\target\site\apidocs\search.js = 1680077642256
+C:\Users\91748\Documents\NetBeansProjects\COMPRESSOR_DECOMPRESSOR\target\site\apidocs\serialized-form.html = 1680077641976
+C:\Users\91748\Documents\NetBeansProjects\COMPRESSOR_DECOMPRESSOR\target\site\apidocs\stylesheet.css = 1680077642240
+C:\Users\91748\Documents\NetBeansProjects\COMPRESSOR_DECOMPRESSOR\target\site\apidocs\tag-search-index.js = 1680077642160
+C:\Users\91748\Documents\NetBeansProjects\COMPRESSOR_DECOMPRESSOR\target\site\apidocs\type-search-index.js = 1680077642152
